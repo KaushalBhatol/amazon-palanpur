@@ -1,5 +1,5 @@
-# amazon.palanpur
-###### Beta Version 1.1
+# amazon-palanpur
+###### Beta Version 1.2
 
 > purpose :innocent:
 
@@ -21,5 +21,5 @@
 
 - [css storage](http://ks.unaux.com/) 
 - [Instagram Link](http://instagram.com/amazon_palanpur/)
-- [github preview link](https://kaushalbhatol.github.io/amazon.palanpur/)
-- [Published WEB LINK](http://amazon.palanpur.unaux.com/)
+- [github preview link](https://kaushalbhatol.github.io/amazon-palanpur/)
+- [Published WEB LINK](https://amazon-palanpur.000webhostapp.com//)
