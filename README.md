@@ -12,6 +12,7 @@
 > v1.2
 
 - added delivery info page.
+- updated links.
 
 > v1.1
 
