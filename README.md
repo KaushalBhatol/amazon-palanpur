@@ -9,6 +9,10 @@
  - we are just retailler.
  - website for peoples help to contact to **Palanpur City** delivery centers.
 
+> v1.2
+
+- added delivery info page.
+
 > v1.1
 
 - removed v1.0 theame and created fresh new theme!
