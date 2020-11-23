@@ -24,7 +24,8 @@
 - added __bootstrap [v4.5.2](https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css)__
 - added __ionicons [v2.0.0](https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css)__
 - added __Amazon Search Wediget__
-<br/>
+> Downloads :file_folder:
+
  Download v1.1 repository : https://mega.nz/file/w2gzgKra#Eylu5R46JqIrBh-b6FQKun3S14yPXnbC5i0JyqUXoDQ
 
 ## v1.0
@@ -37,11 +38,12 @@
 
 > bugs :bug:
 - footer not added.
-- Only Theme Created.
+- Only Theme Created. :trollface:
 - About Page not added.
 - Meta Site Discription not added.
 - links are slow to load.
-<br>
+> Downloads :file_folder:
+
  Download v1.0 repository : https://mega.nz/file/0u4XnCab#aCf9eR_C_Yhr1S9q0GUA_PJrvt-OX8ucaaZUXdAZQlU
 
 ## Links 
