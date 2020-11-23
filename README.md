@@ -1,5 +1,5 @@
 <h1 align="center">amazon-palanpur</h1> 
-<p align="center">Beta Version 1.2</p>
+<p align="right">Version 1.2</p>
 <p align="center"><a href="https://kaushalbhatol.github.io/amazon-palanpur/" target="_blank">View Site</a> | <a href="http://instagram.com/amazon_palanpur/" target="_blank">Support On Instagram</a></p>
 
 ## Purpose :innocent:
