@@ -36,8 +36,9 @@
 - - About Page not added.
 - - Meta Site Discription not added.
 - - links are slow to load.
-<br>
+
 [Download v1.0 repository](https://mega.nz/file/0u4XnCab#aCf9eR_C_Yhr1S9q0GUA_PJrvt-OX8ucaaZUXdAZQlU)
+
 
 
 > Links 
