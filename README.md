@@ -22,6 +22,12 @@
 - added __ionicons [v2.0.0](https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css)__
 - added __Amazon Search Wediget__
 
+> v1.0
+
+- simple bash by w3.css
+- fontawesom added
+
+
 > Links 
 
 - [css storage](http://ks.unaux.com/) 
