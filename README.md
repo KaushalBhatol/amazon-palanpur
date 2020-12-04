@@ -22,6 +22,20 @@
 - ads are relative to products.
 - ads priority are lower than products. 
 
+## v1.3 (LATEST)
+
+>fetures :star:
+
+> bugs :bug:
+- Home Page Not addaded any product
+- footer is clasic need update
+- many pages meta tags not set coreactly.
+- many pages title are also missing.
+- search bar missing.
+- subscriber box missing.
+- layout is simple.
+- error pages are not designed.
+
 ## v1.2
 
 >fetures :star:
@@ -29,6 +43,21 @@
 - updated links.
 - added Licence
 - added second page for top deals.
+- added third party page host, for speed up link speed. [gofile.io](https://gofile.io/)
+
+> bugs :bug:
+- Home Page Not addaded any product
+- footer is clasic need update
+- many pages meta tags not set coreactly.
+- many pages title are also missing.
+- search bar missing.
+- subscriber box missing.
+- layout is simple.
+- error pages are not designed.
+
+> Downloads :file_folder:
+
+ Download v1.2 repository : https://mega.nz/file/czACQZqZ#T2-1HlyJ3bBMCmC3DIgPsoeSSOr7JLxsRCr4i3faMQI
 
 ## v1.1
 
@@ -38,6 +67,16 @@
 - added __bootstrap [v4.5.2](https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css)__
 - added __ionicons [v2.0.0](https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css)__
 - added __Amazon Search Wediget__
+
+> bugs :bug:
+- Home Page Not addaded any product
+- footer is clasic need update
+- licence not attached with repository
+- many pages meta tags not set coreactly.
+- many pages title are also missing.
+- page links are slow. {need third party page host.}
+- layout is simple.
+
 > Downloads :file_folder:
 
  Download v1.1 repository : https://mega.nz/file/w2gzgKra#Eylu5R46JqIrBh-b6FQKun3S14yPXnbC5i0JyqUXoDQ
@@ -60,8 +99,12 @@
 
  Download v1.0 repository : https://mega.nz/file/0u4XnCab#aCf9eR_C_Yhr1S9q0GUA_PJrvt-OX8ucaaZUXdAZQlU
 
+<br>
+##### Downlod links are from mega for saving github space.
+
+##### Problem in links?, Please [contact me .](http://kaushal.my-style.in/contact/)
+
 ## Links 
 
-- [css storage](http://ks.unaux.com/) 
 - [Instagram Link](http://instagram.com/amazon_palanpur/)
-- [Published WEB LINK](https://amazon-palanpur.000webhostapp.com//)
+- [Published WEB LINK](http://amazon.palanpur.ml/?i=1)
