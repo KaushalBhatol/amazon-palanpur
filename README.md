@@ -99,7 +99,7 @@
 
  Download v1.0 repository : https://mega.nz/file/0u4XnCab#aCf9eR_C_Yhr1S9q0GUA_PJrvt-OX8ucaaZUXdAZQlU
 
-<br>
+
 ##### Downlod links are from mega for saving github space.
 
 ##### Problem in links?, Please [contact me .](http://kaushal.my-style.in/contact/)
