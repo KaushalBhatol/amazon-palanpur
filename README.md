@@ -10,11 +10,25 @@
  - we are just retailler.
  - website for peoples help to contact to **Palanpur City** delivery centers.
 
+### site rules 
+> page Rules
+- each page contain only 10 products. 
+- new product on top.
+- old products are going back.
+> ad rules
+- main(index) page not contain any ad.
+- delivery page not contain any ad.
+- each page have max 2 ads.
+- ads are relative to products.
+- ads priority are lower than products. 
+
 ## v1.2
 
 >fetures :star:
 - added delivery info page.
 - updated links.
+- added Licence
+- added second page for top deals.
 
 ## v1.1
 
