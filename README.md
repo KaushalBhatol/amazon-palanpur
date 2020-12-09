@@ -1,6 +1,15 @@
-<h1 align="center">amazon-palanpur</h1> 
+<h1 align="center">amazon-palanpur :mute: </h1> 
 <p align="right">Version 1.2</p>
 <p align="center"><a href="https://kaushalbhatol.github.io/amazon-palanpur/" target="_blank">View Site</a> | <a href="http://instagram.com/amazon_palanpur/" target="_blank">Support On Instagram</a></p>
+
+## Licence :lock:
+> licence by [The Unlicense](https://github.com/KaushalBhatol/amazon-palanpur/blob/master/LICENSE) :key:
+
+- This is free and unencumbered software released into the public domain.
+
+- Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
+ - if you get any problem please contact me http://kaushal.my-style.in/contact/
+ 
 
 ## Purpose :innocent:
 
@@ -10,7 +19,7 @@
  - we are just retailler.
  - website for peoples help to contact to **Palanpur City** delivery centers.
 
-### site rules 
+### Site rules :page_facing_up:
 > page Rules
 - each page contain only 10 products. 
 - new product on top.
@@ -22,19 +31,11 @@
 - ads are relative to products.
 - ads priority are lower than products. 
 
-## v1.3 (LATEST)
+## v1.3 (Project Closed, 09-dec-2020) :closed_book:
 
->fetures :star:
-
-> bugs :bug:
-- Home Page Not addaded any product
-- footer is clasic need update
-- many pages meta tags not set coreactly.
-- many pages title are also missing.
-- search bar missing.
-- subscriber box missing.
-- layout is simple.
-- error pages are not designed.
+-  Page sifted To Wordpress, Devlopment ended 09-dec-2020. 
+-  visit wordpress site http://palanpur.ezyro.com/  
+-  repository saved for thiming Project.
 
 ## v1.2
 
@@ -57,7 +58,7 @@
 
 > Downloads :file_folder:
 
- Download v1.2 repository : https://mega.nz/file/czACQZqZ#T2-1HlyJ3bBMCmC3DIgPsoeSSOr7JLxsRCr4i3faMQI
+ [:cd: Download v1.2 repository](https://mega.nz/file/czACQZqZ#T2-1HlyJ3bBMCmC3DIgPsoeSSOr7JLxsRCr4i3faMQI)
 
 ## v1.1
 
@@ -97,12 +98,12 @@
 - links are slow to load.
 > Downloads :file_folder:
 
- Download v1.0 repository : https://mega.nz/file/0u4XnCab#aCf9eR_C_Yhr1S9q0GUA_PJrvt-OX8ucaaZUXdAZQlU
+ [:cd: Download v1.0 repository](https://mega.nz/file/0u4XnCab#aCf9eR_C_Yhr1S9q0GUA_PJrvt-OX8ucaaZUXdAZQlU)
 
 
 ##### Downlod links are from mega for saving github space.
 
-##### Problem in links?, Please [contact me .](http://kaushal.my-style.in/contact/)
+##### Problem in links?, Please [contact me . :e-mail:](http://kaushal.my-style.in/contact/)
 
 ## Links 
 
