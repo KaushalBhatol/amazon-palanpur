@@ -108,4 +108,3 @@
 ## Links 
 
 - [Instagram Link](http://instagram.com/amazon_palanpur/)
-- [Published WEB LINK](http://amazon.palanpur.ml/?i=1)
