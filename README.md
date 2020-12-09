@@ -80,7 +80,7 @@
 
 > Downloads :file_folder:
 
- Download v1.1 repository : https://mega.nz/file/w2gzgKra#Eylu5R46JqIrBh-b6FQKun3S14yPXnbC5i0JyqUXoDQ
+ [:cd: Download v1.1 repository](https://mega.nz/file/w2gzgKra#Eylu5R46JqIrBh-b6FQKun3S14yPXnbC5i0JyqUXoDQ)
 
 ## v1.0
 
