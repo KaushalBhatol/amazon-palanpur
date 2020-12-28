@@ -1,9 +1,9 @@
 <h1 align="center">amazon-palanpur :mute: </h1> 
 <p align="right">Version 1.2</p>
-<p align="center"><a href="https://kaushalbhatol.github.io/amazon-palanpur/" target="_blank">View Site</a> | <a href="http://instagram.com/amazon_palanpur/" target="_blank">Support On Instagram</a></p>
+<p align="center"><a href="https://kaushalbhatol.github.io/amazon-palanpur-html/" target="_blank">View Site</a> | <a href="http://instagram.com/amazon_palanpur/" target="_blank">Support On Instagram</a></p>
 
 ## Licence :lock:
-> licence by [The Unlicense](https://github.com/KaushalBhatol/amazon-palanpur/blob/master/LICENSE) :key:
+> licence by [The Unlicense](https://github.com/KaushalBhatol/amazon-palanpur-html/blob/master/LICENSE) :key:
 
 - This is free and unencumbered software released into the public domain.
 
@@ -33,9 +33,7 @@
 
 ## v1.3 (Project Closed, 09-dec-2020) :closed_book:
 
--  Page sifted To Wordpress, Devlopment ended 09-dec-2020. 
--  visit wordpress site http://palanpur.ezyro.com/  
--  repository saved for thiming Project.
+-  repository saved for thiming and Project.
 
 ## v1.2
 
